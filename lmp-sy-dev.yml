@@ -1,5 +1,3 @@
-server:
-  port: 8083
 shz:
   port: 5555
 ZZHH: lmp-sy-dev1

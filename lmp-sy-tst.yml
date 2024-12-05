@@ -1,5 +1,3 @@
-server:
-  port: 8081
 shz:
   port: 5555
 ZZHH: lmp-sy-tst1
